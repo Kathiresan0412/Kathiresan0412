@@ -19,7 +19,7 @@
 <td width="50%">
 
 ### 👨‍💻 Profile
-- 💼 Software Engineer @ **Apptimus**
+- 💼 Software Engineer
 - 🧠 2+ years experience
 - 🌍 Sri Lanka → Dubai (Open)
 - 🚀 Scalable Web Apps
@@ -44,9 +44,9 @@
 <td width="50%">
 
 ### 🧑‍💼 Experience
-- **Software Engineer** – Apptimus *(Present)*  
-- **Associate SE** – Apptimus  
-- **Junior SE** – Apptimus Tech  
+- **Software Engineer**   *(Present)*  
+- **Associate SE**   
+- **Junior SE**   
 
 </td>
 <td width="50%">
